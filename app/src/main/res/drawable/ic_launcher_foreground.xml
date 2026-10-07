@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Center Target Ring -->
+    <path
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="2.5"
+        android:fillColor="#00000000"
+        android:pathData="M54,28 A26,26 0 1,0 54,80 A26,26 0 1,0 54,28" />
+
+    <!-- Orbital Ellipse 1 (Physics/Atom tilt) -->
+    <path
+        android:strokeColor="#818CF8"
+        android:strokeWidth="1.8"
+        android:fillColor="#00000000"
+        android:pathData="M35,35 C45,25 63,33 73,43 C83,53 83,73 73,83 C63,93 45,85 35,75 C25,65 25,45 35,35 Z" />
+
+    <!-- Delta Command Peak (Apex JEE Aspirant) -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M54,34 L68,66 L54,61 L40,66 Z" />
+
+    <!-- Core Energy Nucleus / Golden Center -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M54,49 A5,5 0 1,0 54,59 A5,5 0 1,0 54,49" />
+
+    <!-- Lower Chevron / Speed Wing -->
+    <path
+        android:fillColor="#60A5FA"
+        android:pathData="M54,65 L64,74 L54,71 L44,74 Z" />
+</vector>

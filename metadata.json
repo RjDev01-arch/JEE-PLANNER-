@@ -1,0 +1,6 @@
+{
+  "name": "JEE Command Center",
+  "description": "Intelligent JEE preparation operating system for roadmap planning, syllabus tracking, adaptive scheduling, and AI coaching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
